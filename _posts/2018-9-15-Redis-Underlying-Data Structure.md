@@ -2,7 +2,7 @@
 layout: post
 title:  "Redis 数据结构与对象"
 categories: redis 
-tags: redis 数据结构 跳表 SDS 
+tags: redis 数据结构 跳表 SDS
 author: sukbear
 ---
 
