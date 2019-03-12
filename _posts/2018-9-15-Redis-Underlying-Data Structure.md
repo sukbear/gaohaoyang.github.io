@@ -2,7 +2,7 @@
 layout: post
 title:  "Redis 数据结构与对象"
 categories: redis 
-tags: redis 数据结构 跳表
+tags: redis 数据结构 跳表 SDS 
 author: sukbear
 ---
 
@@ -100,4 +100,6 @@ typedef struct dictht{
     (5) 每个节点包含两个指针，一个指向同一链表中的下一个元素，一个指向下面一层的元素。
 ### 总结
 - 应用：zset，集群节点中的内部数据结构
+## 集合
+
 
