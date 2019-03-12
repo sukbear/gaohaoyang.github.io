@@ -14,9 +14,9 @@ url: "https://sukbear.github.io" # the base hostname & protocol for your site
 permalink: /:year/:month/:day/:title/
 
 # other links
-github_username:  sukbear
+github_username:   sukbear
 
-description_footer: Stay hungry，Stay foolish
+description_footer: Stay hungry，Stay foolish! 
 
 # comments
 # two ways to comment, only choose one, and use your own short name
