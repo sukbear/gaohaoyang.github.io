@@ -60,7 +60,7 @@ typedef struct list{
 ## 字典
 ### 基本结构
 - 哈希表结构
-```c
+```bash
 typedef struct dictht{
     // 哈希表数组
     dictEntry **table;
@@ -113,7 +113,7 @@ typedef struct dictht{
 - 对于redis底层数据库所保存的键值来说，键总是一个字符串对象，值是字符串对象、列表对象、哈希对象、集合对象、有序集合对象。
 - 我们称呼一个键为`列表键`时，指的是这个键所对应的值为列表对象。
 
-###总结
+### 总结
 ![](https://s2.ax1x.com/2019/03/13/AF6yVK.png)
 
 
