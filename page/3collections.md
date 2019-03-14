@@ -10,8 +10,8 @@ type: page
 {:toc}
 ## 工具
 
-[Java资源大全中文版](#awesome-java-cn)
-    - [古董级工具](#ancients)
+ [Java资源大全中文版](#awesome-java-cn)
+  - [古董级工具](#ancients)
     - [构建工具](#build)
     - [字节码操作](#bytecode-manipulation)
     - [集群管理](#cluster-management)
