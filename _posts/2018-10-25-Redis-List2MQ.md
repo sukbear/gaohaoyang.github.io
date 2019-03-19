@@ -48,7 +48,7 @@ public class EventHandlerAsyncUtil {
 
 ## 添加消息事件到List中
 
-```java
+```bash
 /**
  * 添加话题
  *
@@ -137,7 +137,7 @@ public class TopicEventHandler {
 
 ## 处理消息事件任务
 
-```java
+```bash
 /**
  * 消息事件处理任务
  * Created by zch on 2017/9/6.
@@ -192,7 +192,7 @@ public class TopicEventHandlerTask {
 
 ## 初始化事件任务列表方法
 
-```java
+```bash
 /**
  * 初始化事件任务列表
  */
