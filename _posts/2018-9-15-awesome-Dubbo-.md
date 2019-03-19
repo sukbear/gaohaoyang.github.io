@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dubbo学习笔记"
+title:  "一个RPC框架—Dubbo"
 categories: Dubbo 
 tags: Dubbo 分布式 RPC 
 author: sukbear
