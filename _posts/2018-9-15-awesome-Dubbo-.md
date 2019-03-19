@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dubbo"
+title:  "Dubbo学习笔记"
 categories: Dubbo 
 tags: Dubbo 分布式 RPC 
 author: sukbear
