@@ -15,10 +15,10 @@ author: sukbear
 ### 使用消息队列的好处
 
 - 通过异步处理提高系统性能（削峰、减少响应所需时间）
-![git](https://raw.githubusercontent.com/sukbear/sukbear.github.io/master/images/mq1.jpg)
+![](https://raw.githubusercontent.com/sukbear/sukbear.github.io/master/images/mq1.jpg)
     - 在不使用消息队列服务器的时候，用户的请求数据直接写入数据库，在高并发的情况下数据库压力剧增，使得响应速度变慢。但是在使用消息队列之后，用户的请求数据发送给消息队列之后立即 返回，再由消息队列的消费者进程从消息队列中获取数据，异步写入数据库。由于消息队列服务器处理速度快于数据库（消息队列也比数据库有更好的伸缩性），因此响应速度得到大幅改善。
     - 消息队列具有很好的削峰作用的功能——即通过异步处理，将短时间高并发产生的事务消息存储在消息队列中，从而削平高峰期的并发事务。 举例：在电子商务一些秒杀、促销活动中，合理使用消息队列可以有效抵御促销活动刚开始大量订单涌入对系统的冲击。
-![git](https://raw.githubusercontent.com/sukbear/sukbear.github.io/master/images/mq2.jpg)
+![](https://raw.githubusercontent.com/sukbear/sukbear.github.io/master/images/mq2.jpg)
 
 - 降低系统耦合性
 如果模块之间不存在直接调用，那么新增模块或者修改模块就对其他模块影响较小，这样系统的可扩展性无疑更好一些。
