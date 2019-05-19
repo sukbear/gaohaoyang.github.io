@@ -12,7 +12,7 @@ author: sukbear
 
 ![](https://raw.githubusercontent.com/sukbear/sukbear.github.io/master/images/a9.jpg)
 
-### lost in your eyes.
+### Lost in your eyes.
 
 ![](https://raw.githubusercontent.com/sukbear/sukbear.github.io/master/images/a2.jpg)
 
