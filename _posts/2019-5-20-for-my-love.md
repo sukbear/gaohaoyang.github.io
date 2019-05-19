@@ -21,7 +21,6 @@ author: sukbear
 ![](https://raw.githubusercontent.com/sukbear/sukbear.github.io/master/images/a1.jpg)
 
 
-
 ### handsome & beautiful
 
 ![](https://raw.githubusercontent.com/sukbear/sukbear.github.io/master/images/a4.jpg)
@@ -41,6 +40,5 @@ author: sukbear
 ### Too serious, it should be cute.
 
 ![](https://raw.githubusercontent.com/sukbear/sukbear.github.io/master/images/a8.jpg)
-
 
 # It's always been you ，I love you!
