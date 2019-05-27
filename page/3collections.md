@@ -29,6 +29,8 @@ type: page
   
   ·[InfoQ](https://www.infoq.cn/)
   
+  ·[SegmentFault](https://segmentfault.com/)
+  
 #### 个人博客
     
    ·[Java成神之路](http://www.hollischuang.com/)
