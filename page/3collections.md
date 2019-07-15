@@ -14,6 +14,7 @@ type: page
 ### 常用
 
 [java命令](https://www.hollischuang.com/archives/1561)
+[redis命令](http://doc.redisfans.com/)
 
 ### 技术资源
 
