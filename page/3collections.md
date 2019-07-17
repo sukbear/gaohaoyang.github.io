@@ -19,6 +19,8 @@ type: page
 
 ·[mongo中文手册](http://www.mongoing.com/docs/)
 
+·[RocketMQ](https://blog.csdn.net/chenaima1314/article/details/79202315)
+
 ### 技术资源
 
 #### 公司组织
