@@ -46,4 +46,7 @@ type: page
    ·[JDK](https://github.com/seaswalker/JDK)
    
    ·[Java技术驿站](http://cmsblogs.com/)
-  
+
+#### 定义理解
+
+   ·[Raft协议](https://www.infoq.cn/article/raft-paper/)
